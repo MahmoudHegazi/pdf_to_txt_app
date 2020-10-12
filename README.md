@@ -57,3 +57,5 @@ if __name__ == '__main__':
     path = 'name.pdf'
     convert_pdf_to_txt(path)
 ```
+
+<img src="report2.PNG">
