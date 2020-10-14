@@ -5,6 +5,8 @@ my goal is extract some fileds from pdf file , for now i can convert the pdf to 
 <img src="pdf_to_txt.png">
 
 
+https://www.programcreek.com/python/example/98808/pdfminer.converter.TextConverter
+
 ### final 
 
 ```python
